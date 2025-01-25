@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         SerienStream / AniWorld - Priority Hoster
-// @namespace    https://gist.github.com/M4RC-XX
-// @version      1.3
-// @description  Fügt eine nummer hinter die besten Hoster, mit der besten JDownlaoder Kompatibilität (Absteigend)
+// @description  Adds a number behind the best hosts, with the best JDownloader compatibility (descending)
+// @namespace    https://github.com/M4RC-XX
+// @version      1.0
 // @author       M4RC-XX
 // @icon            https://s.to/favicon-32x32.png
 // @match        https://*.to/*/stream/*/staffel-*/episode-*

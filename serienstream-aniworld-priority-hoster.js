@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         SerienStream / AniWorld - Priority Hoster NEW
+// @name         SerienStream / AniWorld - Priority Hoster
 // @description  Fügt einen Kommentar zu jedem Hoster hinzu mit Infos über die Kompatibilität zum Downloaden mit JDownloader 2
 // @namespace    https://github.com/M4RC-XX
 // @version      2.7.0
